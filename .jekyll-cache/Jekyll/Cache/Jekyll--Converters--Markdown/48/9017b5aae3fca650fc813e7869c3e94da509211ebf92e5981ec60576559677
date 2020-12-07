@@ -1,0 +1,26 @@
+I"@<p>Results for:</p>
+<ul>
+  <li>HL-LHC v1.4 IP1</li>
+  <li>Protons beam 1 , 6500 GeV</li>
+  <li>Hydrogen beamgas interactions - uniform primary particle biasing in last 500m before ATLAS</li>
+  <li>20 MEV kinetic energy cut</li>
+</ul>
+
+<p><br />
+<br /></p>
+
+<figure>
+<img src="/public/img/output_hllhc_v1p4_ATLAS_1_500_20MeVcut_hydrogen_sigmaE/INTERFACE_PLANE_spectrum_kene_interface_plane_output_hllhc_v1p4_ATLAS_1_500_20MeVcut_hydrogen_sigmaE.png" style="width: 60vw;" />
+<figcaption>Energy spectrum of secondaries at ATLAS interface plane.</figcaption>
+</figure>
+
+<p><br />
+<br /></p>
+
+<figure>
+<img src="/public/img/output_hllhc_v1p4_ATLAS_1_500_20MeVcut_hydrogen_sigmaE/INTERFACE_PLANE_spectrum_R_output_hllhc_v1p4_ATLAS_1_500_20MeVcut_hydrogen_sigmaE.png" style="width: 32vw;" />
+<img src="/public/img/output_hllhc_v1p4_ATLAS_1_500_20MeVcut_hydrogen_sigmaE/INTERFACE_PLANE_spectrum_phi_end_output_hllhc_v1p4_ATLAS_1_500_20MeVcut_hydrogen_sigmaE.png" style="width: 32vw;" />
+<figcaption>Radial and angular distribution of secondaries at ATLAS interface plane.</figcaption>
+</figure>
+
+:ET

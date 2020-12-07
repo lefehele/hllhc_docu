@@ -1,0 +1,39 @@
+<article class="post">
+  <header class="post-header home">
+    <div class="post-title">Documentation website</div>
+  </header>
+
+
+Place to look at plots for different versions of HL-LHC optics and different geometry settings. 
+
+<br>
+<br>
+  
+<figure><img src="/public/img/home/atlas.png">
+<!--figcaption>Lattice around ATLAS.</figcaption-->
+</figure>
+  
+<br>
+<br>
+<ul class="nav">
+  Look at:
+  {% assign pages_list = site.pages %}
+  {% for node in pages_list %}
+  {% if node.title != null %}
+  {% if node.layout == "page" %}
+  <li>
+    <a class="nav-item" href="{{ node.url }}">
+      {{ node.title }}
+    </a>
+  </li>
+  {% endif %}
+  {% endif %}
+  {% endfor %}
+  <li>
+    <a class="nav-item" href="{{ site.url }}/results"> Results</a>
+  </li>
+</ul>
+
+
+
+

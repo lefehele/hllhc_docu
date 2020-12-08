@@ -1,6 +1,6 @@
 ---
 layout: results_post
-title: HL-LHC v1.4, ATLAS, $\beta$ comparison
+title: HL-LHC v1.4, ATLAS, &beta; comparison
 date: 2020-01-02
 category: sample
 ---

@@ -1,6 +1,6 @@
 ---
 layout: results_post
-title: HL-LHC v1.4, ATLAS, &beta; comparison
+title: HL-LHC v1.4, ATLAS, beta comparison
 date: 2020-01-02
 category: sample
 ---
@@ -11,7 +11,7 @@ Background simulation:
 <br>
 
 Optics differences:
-   1. Collision optics with $\beta$* = 15 cm
+   1. Collision optics with $$\beta$$* = 15 cm
    2. Collision	optics with $\beta$* = 40 cm
 
 <br>

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: results_post
 title: HL-LHC v1.4, CMS, 20GeVcut, hydrogen gas, sigmaE, simple BDSIM tunnel
 date: 2020-01-02
 category: sample

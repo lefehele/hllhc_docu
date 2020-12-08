@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: results_post
 title: HL-LHC v1.4, ATLAS, 20MeVcut, hydrogen gas, sigmaE
 date: 2020-01-02
 category: sample

@@ -15,6 +15,9 @@ TAN geometry differences:
    2. only copper absorber
    3. outer iron shielding and a shorter inner copper absorber
 
+<br>
+<br>
+
 <figure>
 <img src="/public/img/TAN_comparison/tan1.png" style="width: 20vw;">
 <img src="/public/img/TAN_comparison/tan2.png" style="width: 20vw;">
@@ -35,13 +38,6 @@ TAN geometry differences:
 <br>
 <br>
 
-<figure>
-<img src="/public/img/TAN_comparison/spectrum_muon_kene_comp.png" style="width: 60vw;">
-<figcaption>Energy, phi and radial distributions.</figcaption>
-</figure>
-
-<br>
-<br>
 
 <figure>
 <img src="/public/img/TAN_comparison/IPoriginKE_comparison.png" style="width: 60vw;">

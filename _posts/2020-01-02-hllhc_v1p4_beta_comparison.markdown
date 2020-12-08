@@ -11,14 +11,14 @@ Background simulation:
 <br>
 
 Optics differences:
-   1. Collision optics with $$\beta$$* = 15 cm
-   2. Collision	optics with $\beta$* = 40 cm
+   1. Collision optics with beta* = 15 cm
+   2. Collision	optics with beta* = 40 cm
 
 <br>
 
 <figure>
 <img src="/public/img/TAN_comparison/betas.png" style="width: 60vw;">
-<figcaption>Point of origin of secondaries for different $\beta$*.</figcaption>
+<figcaption>Point of origin of secondaries for different beta*.</figcaption>
 </figure>
 
 
@@ -39,6 +39,6 @@ Optics differences:
 
 <figure>
 <img src="/public/img/TAN_comparison/IPoriginKE_comparison_beta.png" style="width: 60vw;">
-<figcaption>Point of origin of secondaries for different $\beta$*.</figcaption>
+<figcaption>Point of origin of secondaries for different beta*.</figcaption>
 </figure>
 

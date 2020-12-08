@@ -6,7 +6,7 @@ category: sample
 ---
 Results for:
    * HL-LHC v1.4 IP1
-   * Protons beam 1 , 6500 GeV
+   * Protons beam 1 , 7 TeV
    * Hydrogen beamgas interactions - uniform primary particle biasing in last 500m before ATLAS
    * 20 MEV kinetic energy cut
 

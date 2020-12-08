@@ -22,7 +22,7 @@ title: HL-LHC backgrounds documentation
 email: lefe.hele@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
 # baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://lefehele.github.io/hllhc_docu/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://lefehele.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: lefehele
 highlighter: rouge
 svg:

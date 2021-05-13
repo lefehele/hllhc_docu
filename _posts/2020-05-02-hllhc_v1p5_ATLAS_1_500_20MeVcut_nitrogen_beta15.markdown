@@ -6,7 +6,7 @@ category: sample
 ---
 Results for:
    * HL-LHC v1.5 IP1, beta* 15cm
-   * Protons beam 1 , T TeV
+   * Protons beam 1 , 7 TeV
    * Nitrogen beamgas interactions - uniform primary particle biasing in last 500m before ATLAS
    * 20 MEV kinetic energy cut
 

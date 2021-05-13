@@ -1,13 +1,13 @@
 ---
 layout: results_post
-title: HL-LHC v1.4, ATLAS, 20MeVcut, hydrogen gas, sigmaE
+title: HL-LHC v1.5, ATLAS, 20MeVcut, nitrogen gas, sigmaE, beta* 15cm
 date: 2020-01-02
 category: sample
 ---
 Results for:
-   * HL-LHC v1.4 IP1
+   * HL-LHC v1.5 IP1, beta* 15cm
    * Protons beam 1 , T TeV
-   * Hydrogen beamgas interactions - uniform primary particle biasing in last 500m before ATLAS
+   * Nitrogen beamgas interactions - uniform primary particle biasing in last 500m before ATLAS
    * 20 MEV kinetic energy cut
 
 <br>

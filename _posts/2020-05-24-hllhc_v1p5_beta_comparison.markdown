@@ -1,7 +1,7 @@
 ---
 layout: results_post
-title: HL-LHC v1.4, ATLAS, beta comparison
-date: 2020-01-02
+title: HL-LHC v1.5, ATLAS, beta comparison
+date: 2020-05-25
 category: sample
 ---
 Background simulation:

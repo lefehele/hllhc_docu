@@ -1,14 +1,15 @@
 ---
 layout: results_post
-title: HL-LHC v1.5, ATLAS, 20MeVcut, nitrogen gas, sigmaE, beta* 40cm
+title: HL-LHC v1.5, ATLAS, 20MeVcut, nitrogen gas, sigmaE, beta* 40cm, collimators open
 date: 2020-05-03
 category: sample
 ---
 Results for:
    * HL-LHC v1.5 IP1, beta* 40cm
-   * Protons beam 1 , T TeV
+   * Protons beam 1 , 7 TeV
    * Nitrogen beamgas interactions - uniform primary particle biasing in last 500m before ATLAS
    * 20 MEV kinetic energy cut
+   * Collimator settings: TCTs with 13sigma gap
 
 <br>
 <br>

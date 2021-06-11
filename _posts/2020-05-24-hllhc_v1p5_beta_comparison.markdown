@@ -1,12 +1,13 @@
 ---
 layout: results_post
-title: HL-LHC v1.5, ATLAS, beta comparison
+title: HL-LHC v1.5, ATLAS, beta comparison, collimators open
 date: 2020-05-25
 category: sample
 ---
 Background simulation:
    * HL-LHC v1.5, beam 1, 7 TeV beam energy
    * Beam gas: nitrogen vacuum biasing primary interactions in full 500m
+   * Collimator	settings: TCTs with 13sigma gap
 
 <br>
 

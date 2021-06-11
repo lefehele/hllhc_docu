@@ -66,8 +66,18 @@ Optics differences:
 <br>
 
 <figure>
-<img src="/public/img/v1p5_beta_comparison_2/XvsS_full_beta15_output_hllhc_v1p5_ATLAS_501_1000_beta15_20MeVcut_nitrogen_sigmaE_collimators_v5" style="width: 20vw;">
-<img src="/public/img/v1p5_beta_comparison_2/XvsS_full_beta25_output_hllhc_v1p5_ATLAS_501_1000_beta15_20MeVcut_nitrogen_sigmaE_collimators_v5" style="width: 20vw;">
-<img src="/public/img/v1p5_beta_comparison_2/XvsS_full_beta40_output_hllhc_v1p5_ATLAS_501_1000_beta15_20MeVcut_nitrogen_sigmaE_collimators_v5" style="width: 20vw;">
+<img src="/public/img/v1p5_beta_comparison_2/XvsS_full_beta15_output_hllhc_v1p5_ATLAS_501_1000_beta15_20MeVcut_nitrogen_sigmaE_collimators_v5.png" style="width: 20vw;">
+<img src="/public/img/v1p5_beta_comparison_2/XvsS_full_beta25_output_hllhc_v1p5_ATLAS_501_1000_beta15_20MeVcut_nitrogen_sigmaE_collimators_v5.png" style="width: 20vw;">
+<img src="/public/img/v1p5_beta_comparison_2/XvsS_full_beta40_output_hllhc_v1p5_ATLAS_501_1000_beta15_20MeVcut_nitrogen_sigmaE_collimators_v5.png" style="width: 20vw;">
 <figcaption>XvsS.</figcaption>
+</figure>
+
+<br>
+<br>
+
+<figure>
+<img src="/public/img/v1p5_beta_comparison_2/YvsS_full_beta15_output_hllhc_v1p5_ATLAS_501_1000_beta15_20MeVcut_nitrogen_sigmaE_collimators_v5.png" style="width: 20vw;">
+<img src="/public/img/v1p5_beta_comparison_2/YvsS_full_beta25_output_hllhc_v1p5_ATLAS_501_1000_beta15_20MeVcut_nitrogen_sigmaE_collimators_v5.png" style="width: 20vw;">
+<img src="/public/img/v1p5_beta_comparison_2/YvsS_full_beta40_output_hllhc_v1p5_ATLAS_501_1000_beta15_20MeVcut_nitrogen_sigmaE_collimators_v5.png" style="width: 20vw;">
+<figcaption>YvsS.</figcaption>
 </figure>

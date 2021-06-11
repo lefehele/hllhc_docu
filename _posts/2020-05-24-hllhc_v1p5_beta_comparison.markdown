@@ -66,8 +66,8 @@ Optics differences:
 <br>
 
 <figure>
-<img src="/public/img/v1p5_beta_comparison/XvsS_full_beta15_output_hllhc_v1p5_ATLAS_1_500_beta15_20MeVcut_nitrogen_sigmaE" style="width: 20vw;">
-<img src="/public/img/v1p5_beta_comparison/XvsS_full_beta25_output_hllhc_v1p5_ATLAS_1_500_beta15_20MeVcut_nitrogen_sigmaE" style="width: 20vw;">
-<img src="/public/img/v1p5_beta_comparison/XvsS_full_beta40_output_hllhc_v1p5_ATLAS_1_500_beta15_20MeVcut_nitrogen_sigmaE" style="width: 20vw;">
+<img src="/public/img/v1p5_beta_comparison/XvsS_full_beta15_output_hllhc_v1p5_ATLAS_1_500_beta15_20MeVcut_nitrogen_sigmaE.png" style="width: 20vw;">
+<img src="/public/img/v1p5_beta_comparison/XvsS_full_beta25_output_hllhc_v1p5_ATLAS_1_500_beta15_20MeVcut_nitrogen_sigmaE.png" style="width: 20vw;">
+<img src="/public/img/v1p5_beta_comparison/XvsS_full_beta40_output_hllhc_v1p5_ATLAS_1_500_beta15_20MeVcut_nitrogen_sigmaE.png" style="width: 20vw;">
 <figcaption>XvsS.</figcaption>
 </figure>

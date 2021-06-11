@@ -38,7 +38,7 @@ Optics differences:
 
 
 <figure>
-<img src="/public/img/TAN_comparison/IPoriginKE_comparison_beta.png" style="width: 60vw;">
+<img src="/public/img/TAN_comparison/IPoriginKE_beta_comparison.png" style="width: 60vw;">
 <figcaption>Point of origin of secondaries for different beta*.</figcaption>
 </figure>
 

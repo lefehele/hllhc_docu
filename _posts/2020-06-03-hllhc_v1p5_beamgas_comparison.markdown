@@ -1,6 +1,6 @@
 ---
 layout: results_post
-title: HL-LHC v1.5, ATLAS, beamgas comparison comparison
+title: HL-LHC v1.5, ATLAS, beamgas comparison
 date: 2020-06-03
 category: sample
 ---

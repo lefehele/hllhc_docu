@@ -47,7 +47,7 @@ Results for:
 <br>
 
 <figure>
-<img src="/public/img/v1p5_beta20_beamhalo/Trajectory_origin_secoPmu_2021-11-02_total.png" style="width: 60vw;">
+<img src="/public/img/v1p5_beta20_beamhalo/Traj_origin_secoPmu_2021-11-02_total.png" style="width: 60vw;">
 <figcaption>Origin of secondaries and muons reaching the interface plane.</figcaption>
 </figure>
 

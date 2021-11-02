@@ -49,9 +49,26 @@ Results for:
 <br>
 
 <figure>
+<img src="/public/img/output_hllhc_v1p5_ATLAS_1_500_beta15_20MeVcut_nitrogen_sigmaE/Traj_orig_mu_output_hllhc_v1p5_ATLAS_1_500_beta15_20MeVcut_nitrogen_sigmaE.png" style="width: 60vw;">
+<figcaption>Origin of muons reaching the interface plane (ATLAS IP at 500m).</figcaption>
+</figure>
+
+<br>
+<br>
+
+<figure>
 <img src="/public/img/output_hllhc_v1p5_ATLAS_1_500_beta15_20MeVcut_nitrogen_sigmaE/flux_INTERFACE_PLANE_all_output_hllhc_v1p5_ATLAS_1_500_beta15_20MeVcut_nitrogen_sigmaE.png" style="width: 20vw;">
 <img src="/public/img/output_hllhc_v1p5_ATLAS_1_500_beta15_20MeVcut_nitrogen_sigmaE/flux_INTERFACE_PLANE_in_output_hllhc_v1p5_ATLAS_1_500_beta15_20MeVcut_nitrogen_sigmaE.png" style="width: 20vw;">
 <img src="/public/img/output_hllhc_v1p5_ATLAS_1_500_beta15_20MeVcut_nitrogen_sigmaE/flux_INTERFACE_PLANE_out_output_hllhc_v1p5_ATLAS_1_500_beta15_20MeVcut_nitrogen_sigmaE.png" style="width: 20vw;">
 <figcaption>Particle flux at ATLAS interface plane.</figcaption>
+</figure>
+
+<br>
+<br>
+
+<figure>
+<img src="/public/img/output_hllhc_v1p5_ATLAS_1_500_beta15_20MeVcut_nitrogen_sigmaE/SvsPhi_INTERFACE_PLANE_output_hllhc_v1p5_ATLAS_1_500_beta15_20MeVcut_nitrogen_sigmaE.png" style="width: 30vw;">
+<img src="/public/img/output_hllhc_v1p5_ATLAS_1_500_beta15_20MeVcut_nitrogen_sigmaE/SvsR_INTERFACE_PLANE_output_hllhc_v1p5_ATLAS_501_1000_beta15_20MeVcut_nitrogen_sigmaE_collimators_v5.png" style="width: 30vw;">
+<figcaption>Phi and radial position at ATLAS interface plane according to primary interaction position..</figcaption>
 </figure>
 

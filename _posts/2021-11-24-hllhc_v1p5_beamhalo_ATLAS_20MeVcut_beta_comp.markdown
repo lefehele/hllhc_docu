@@ -15,7 +15,7 @@ Results for:
 <br>
 
 <figure>
-<img src="/public/img/v1p5_beamhalo_betacomp/spectrum_kene_interface_plane_output_hllhc_beamhalo_v1p5_ATLAS_beta20_1_500_20MeVcut_allTCTs.png" style="width: 60vw;">
+<img src="/public/img/v1p5_beamhalo_betacomp/spectrum_kene_comp_output_hllhc_beamhalo_v1p5_ATLAS_beta20_1_500_20MeVcut_allTCTs.png" style="width: 60vw;">
 <figcaption>Energy spectrum of secondaries at ATLAS interface plane.</figcaption>
 </figure>
 
@@ -23,17 +23,28 @@ Results for:
 <br>
 
 <figure>
-<img src="/public/img/v1p5_beamhalo_betacomp/spectrum_R_output_hllhc_beamhalo_v1p5_ATLAS_beta20_1_500_20MeVcut_allTCTs.png" style="width: 30vw;">
-<img src="/public/img/v1p5_beamhalo_betacomp/spectrum_phi_output_hllhc_beamhalo_v1p5_ATLAS_beta20_1_500_20MeVcut_allTCTs.png" style="width: 30vw;">
+<img src="/public/img/v1p5_beamhalo_betacomp/spectrum_seco_r_comp_output_hllhc_beamhalo_v1p5_ATLAS_beta20_1_500_20MeVcut_allTCTs.png" style="width: 30vw;">
+<img src="/public/img/v1p5_beamhalo_betacomp/spectrum_seco_phi_comp_output_hllhc_beamhalo_v1p5_ATLAS_beta20_1_500_20MeVcut_allTCTs.png" style="width: 30vw;">
 <br>
-<img src="/public/img/v1p5_beamhalo_betacomp/spectrum_R_KE_output_hllhc_beamhalo_v1p5_ATLAS_beta20_1_500_20MeVcut_allTCTs.png" style="width: 30vw;">
-<img src="/public/img/v1p5_beamhalo_betacomp/spectrum_phi_KE_output_hllhc_beamhalo_v1p5_ATLAS_beta20_1_500_20MeVcut_allTCTs.png" style="width: 30vw;">
+<img src="/public/img/v1p5_beamhalo_betacomp/spectrum_seco_r_KE_comp_output_hllhc_beamhalo_v1p5_ATLAS_beta20_1_500_20MeVcut_allTCTs.png" style="width: 30vw;">
+<img src="/public/img/v1p5_beamhalo_betacomp/spectrum_seco_phi_KE_comp_output_hllhc_beamhalo_v1p5_ATLAS_beta20_1_500_20MeVcut_allTCTs.png" style="width: 30vw;">
 <figcaption>Radial and azimuthal distributions of secondaries at ATLAS interface plane (bottom energy scaled).</figcaption>
 </figure>
 
 <br>
 <br>
 
+<figure>
+<img src="/public/img/v1p5_beamhalo_betacomp/spectrum_muon_r_comp_output_hllhc_beamhalo_v1p5_ATLAS_beta20_1_500_20MeVcut_allTCTs.png" style="width: 30vw;">
+<img src="/public/img/v1p5_beamhalo_betacomp/spectrum_muon_phi_comp_output_hllhc_beamhalo_v1p5_ATLAS_beta20_1_500_20MeVcut_allTCTs.png" style="width: 30vw;">
+<br>
+<img src="/public/img/v1p5_beamhalo_betacomp/spectrum_muon_r_KE_comp_output_hllhc_beamhalo_v1p5_ATLAS_beta20_1_500_20MeVcut_allTCTs.png" style="width: 30vw;">
+<img src="/public/img/v1p5_beamhalo_betacomp/spectrum_muon_phi_KE_comp_output_hllhc_beamhalo_v1p5_ATLAS_beta20_1_500_20MeVcut_allTCTs.png" style="width: 30vw;">
+<figcaption>Radial and azimuthal distributions of muons at ATLAS interface plane (bottom energy scaled).</figcaption>
+</figure>
+
+<br>
+<br>
 
 <figure>
 <img src="/public/img/v1p5_beamhalo_betacomp/IPoriginKE_comparison_all_output_hllhc_beamhalo_v1p5_ATLAS_beta20_1_500_20MeVcut_allTCTs.png" style="width: 60vw;">

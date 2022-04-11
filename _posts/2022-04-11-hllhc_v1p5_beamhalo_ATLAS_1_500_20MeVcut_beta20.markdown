@@ -1,15 +1,15 @@
 ---
 layout: results_post
-title: HL-LHC v1.5, ATLAS, 20MeVcut, beam halo, beta* 20cm, collimators same as beta* 15cm
+title: HL-LHC, beam halo, ATLAS, beam 1
 date: 2022-04-11
 category: sample
 ---
 Results for:
    * HL-LHC v1.5 IP1, beta* 20cm
-   * Protons beam 1 , 7 TeV
+   * Protons beam 1, 7 TeV
    * Tertiary beam halo - using hits on TCTs from Bjorn Lindstrom
    * 20 MEV kinetic energy cut
-   * Collimator	settings: TCTs with 11.4sigma gap
+   * Collimator	settings: TCTs with 11.4 sigma gap
 
 <br>
 <br>

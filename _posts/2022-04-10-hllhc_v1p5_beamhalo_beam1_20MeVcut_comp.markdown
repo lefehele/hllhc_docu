@@ -35,7 +35,7 @@ Results for:
 <br>
 
 <figure>
-<img src="/public/img/comp_beam1/spectrum_muon_r_kene_comp_beamhalo_atlas_beam1_total.png" style="width: 30vw;">
+<img src="/public/img/comp_beam1/spectrum_muon_r_kene_comp_beta_beamhalo_atlas_beam1_total.png" style="width: 30vw;">
 <img src="/public/img/comp_beam1/spectrum_muon_phi_comp_beta_beamhalo_atlas_beam1_total.png" style="width: 30vw;">
 <br>
 <img src="/public/img/comp_beam1/spectrum_muon_r_KE_comp_beta_beamhalo_atlas_beam1_total.png" style="width: 30vw;">

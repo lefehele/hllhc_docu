@@ -15,7 +15,7 @@ Results for:
 <br>
 
 <figure>
-<img src="/public/img/beamhalo_altas_beam1_total/INTERFACE_PLANE_spectrum_kene_interface_plane_beamhalo_atlas_beam1_total.png" style="width: 60vw;">
+<img src="/public/img/beamhalo_atlas_beam1_total/INTERFACE_PLANE_spectrum_kene_interface_plane_beamhalo_atlas_beam1_total.png" style="width: 60vw;">
 <figcaption>Energy spectrum of secondaries at ATLAS interface plane.</figcaption>
 </figure>
 
@@ -23,11 +23,11 @@ Results for:
 <br>
 
 <figure>
-<img src="/public/img/beamhalo_altas_beam1_total/INTERFACE_PLANE_spectrum_R_beamhalo_atlas_beam1_total.png" style="width: 30vw;">
-<img src="/public/img/beamhalo_altas_beam1_total/INTERFACE_PLANE_spectrum_phi_beamhalo_atlas_beam1_total.png" style="width: 30vw;">
+<img src="/public/img/beamhalo_atlas_beam1_total/INTERFACE_PLANE_spectrum_R_beamhalo_atlas_beam1_total.png" style="width: 30vw;">
+<img src="/public/img/beamhalo_atlas_beam1_total/INTERFACE_PLANE_spectrum_phi_beamhalo_atlas_beam1_total.png" style="width: 30vw;">
 <br>
-<img src="/public/img/beamhalo_altas_beam1_total/INTERFACE_PLANE_spectrum_R_KE_beamhalo_atlas_beam1_total.png" style="width: 30vw;">
-<img src="/public/img/beamhalo_altas_beam1_total/INTERFACE_PLANE_spectrum_phi_KE_beamhalo_atlas_beam1_total.png" style="width: 30vw;">
+<img src="/public/img/beamhalo_atlas_beam1_total/INTERFACE_PLANE_spectrum_R_KE_beamhalo_atlas_beam1_total.png" style="width: 30vw;">
+<img src="/public/img/beamhalo_atlas_beam1_total/INTERFACE_PLANE_spectrum_phi_KE_beamhalo_atlas_beam1_total.png" style="width: 30vw;">
 <figcaption>Radial and azimuthal distributions of secondaries at ATLAS interface plane (bottom energy scaled).</figcaption>
 </figure>
 
@@ -35,11 +35,11 @@ Results for:
 <br>
 
 <figure>
-<img src="/public/img/beamhalo_altas_beam1_total/INTERFACE_PLANE_mu_diff_R_beamhalo_atlas_beam1_total.png" style="width: 30vw;">
-<img src="/public/img/beamhalo_altas_beam1_total/INTERFACE_PLANE_mu_diff_phi_beamhalo_atlas_beam1_total.png" style="width: 30vw;">
+<img src="/public/img/beamhalo_atlas_beam1_total/INTERFACE_PLANE_mu_diff_R_beamhalo_atlas_beam1_total.png" style="width: 30vw;">
+<img src="/public/img/beamhalo_atlas_beam1_total/INTERFACE_PLANE_mu_diff_phi_beamhalo_atlas_beam1_total.png" style="width: 30vw;">
 <br>
-<img src="/public/img/beamhalo_altas_beam1_total/INTERFACE_PLANE_mu_diff_R_KE_beamhalo_atlas_beam1_total.png" style="width: 30vw;">
-<img src="/public/img/beamhalo_altas_beam1_total/INTERFACE_PLANE_mu_diff_phi_KE_beamhalo_atlas_beam1_total.png" style="width: 30vw;">
+<img src="/public/img/beamhalo_atlas_beam1_total/INTERFACE_PLANE_mu_diff_R_KE_beamhalo_atlas_beam1_total.png" style="width: 30vw;">
+<img src="/public/img/beamhalo_atlas_beam1_total/INTERFACE_PLANE_mu_diff_phi_KE_beamhalo_atlas_beam1_total.png" style="width: 30vw;">
 <figcaption>Radial and azimuthal distributions for different energy muons at ATLAS interface plane (bottom energy scaled).</figcaption>
 </figure>
 
@@ -47,7 +47,7 @@ Results for:
 <br>
 
 <figure>
-<img src="/public/img/beamhalo_altas_beam1_total/Traj_origin_secoPmu_beamhalo_atlas_beam1_total.png" style="width: 60vw;">
+<img src="/public/img/beamhalo_atlas_beam1_total/Traj_origin_secoPmu_beamhalo_atlas_beam1_total.png" style="width: 60vw;">
 <figcaption>Origin of secondaries and muons reaching the interface plane.</figcaption>
 </figure>
 
@@ -55,7 +55,7 @@ Results for:
 <br>
 
 <figure>
-<img src="/public/img/beamhalo_altas_beam1_total/Trajectory_origin_secoPmu_KE_beamhalo_atlas_beam1_total.png" style="width: 60vw;">
+<img src="/public/img/beamhalo_atlas_beam1_total/Trajectory_origin_secoPmu_KE_beamhalo_atlas_beam1_total.png" style="width: 60vw;">
 <figcaption>Origin of secondaries muons reaching the interface plane scaled by energy.</figcaption>
 </figure>
 
@@ -63,9 +63,9 @@ Results for:
 <br>
 
 <figure>
-<img src="/public/img/beamhalo_altas_beam1_total/flux_INTERFACE_PLANE_all_beamhalo_atlas_beam1_total.png" style="width: 20vw;">
-<img src="/public/img/beamhalo_altas_beam1_total/flux_INTERFACE_PLANE_KE_beamhalo_atlas_beam1_total.png" style="width: 20vw;">
-<img src="/public/img/beamhalo_altas_beam1_total/flux_INTERFACE_PLANE_mu_beamhalo_atlas_beam1_total.png" style="width: 20vw;">
+<img src="/public/img/beamhalo_atlas_beam1_total/flux_INTERFACE_PLANE_all_beamhalo_atlas_beam1_total.png" style="width: 20vw;">
+<img src="/public/img/beamhalo_atlas_beam1_total/flux_INTERFACE_PLANE_KE_beamhalo_atlas_beam1_total.png" style="width: 20vw;">
+<img src="/public/img/beamhalo_atlas_beam1_total/flux_INTERFACE_PLANE_mu_beamhalo_atlas_beam1_total.png" style="width: 20vw;">
 <figcaption>Particle flux at ATLAS interface plane.</figcaption>
 </figure>
 

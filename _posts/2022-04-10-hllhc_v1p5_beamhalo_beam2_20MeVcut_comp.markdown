@@ -26,8 +26,8 @@ Results for:
 <img src="/public/img/comp_beam2/spectrum_seco_r_comp_beamhalo_atlas_beam2_total.png" style="width: 30vw;">
 <img src="/public/img/comp_beam2/spectrum_seco_phi_comp_beamhalo_atlas_beam2_total.png" style="width: 30vw;">
 <br>
-<img src="/public/img/comp_beam2/spectrum_seco_r_KE_comp_beamhalo_atlas_beam2_total.png" style="width: 30vw;">
-<img src="/public/img/comp_beam2/spectrum_seco_phi_KE_comp_beamhalo_atlas_beam2_total.png" style="width: 30vw;">
+<img src="/public/img/comp_beam2/spectrum_seco_r_KE_comp_beta_beamhalo_atlas_beam2_total.png" style="width: 30vw;">
+<img src="/public/img/comp_beam2/spectrum_seco_phi_KE_comp_beta_beamhalo_atlas_beam2_total.png" style="width: 30vw;">
 <figcaption>Radial and azimuthal distributions of secondaries at ATLAS and CMS interface planes (bottom energy scaled).</figcaption>
 </figure>
 
@@ -35,11 +35,11 @@ Results for:
 <br>
 
 <figure>
-<img src="/public/img/comp_beam2/spectrum_muon_r_comp_beamhalo_atlas_beam2_total.png" style="width: 30vw;">
-<img src="/public/img/comp_beam2/spectrum_muon_phi_comp_beamhalo_atlas_beam2_total.png" style="width: 30vw;">
+<img src="/public/img/comp_beam2/spectrum_muon_r_kene_comp_beta_beamhalo_atlas_beam2_total.png" style="width: 30vw;">
+<img src="/public/img/comp_beam2/spectrum_muon_phi_comp_beta_beamhalo_atlas_beam2_total.png" style="width: 30vw;">
 <br>
-<img src="/public/img/comp_beam2/spectrum_muon_r_KE_comp_beamhalo_atlas_beam2_total.png" style="width: 30vw;">
-<img src="/public/img/comp_beam2/spectrum_muon_phi_KE_comp_beamhalo_atlas_beam2_total.png" style="width: 30vw;">
+<img src="/public/img/comp_beam2/spectrum_muon_r_KE_comp_beta_beamhalo_atlas_beam2_total.png" style="width: 30vw;">
+<img src="/public/img/comp_beam2/spectrum_muon_phi_KE_comp_beta_beamhalo_atlas_beam2_total.png" style="width: 30vw;">
 <figcaption>Radial and azimuthal distributions of muons at ATLAS and CMS interface planes (bottom energy scaled).</figcaption>
 </figure>
 

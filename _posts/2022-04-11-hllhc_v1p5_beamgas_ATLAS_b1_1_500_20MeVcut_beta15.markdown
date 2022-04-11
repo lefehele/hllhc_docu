@@ -62,14 +62,3 @@ Results for:
 <br>
 <br>
 
-<figure>
-<img src="/public/img/beamgas_ATLAS_b1_20220408/flux_INTERFACE_PLANE_all_beamgas_hllhc_v1p5_beta15_ATLAS_b1_1_500_20MeVcut_hydrogen_gas_20220408.png" style="width: 20vw;">
-<img src="/public/img/beamgas_ATLAS_b1_20220408/flux_INTERFACE_PLANE_KE_beamgas_hllhc_v1p5_beta15_ATLAS_b1_1_500_20MeVcut_hydrogen_gas_20220408.png" style="width: 20vw;">
-<img src="/public/img/beamgas_ATLAS_b1_20220408/flux_INTERFACE_PLANE_mu_beamgas_hllhc_v1p5_beta15_ATLAS_b1_1_500_20MeVcut_hydrogen_gas_20220408.png" style="width: 20vw;">
-<figcaption>Particle flux at ATLAS interface plane.</figcaption>
-</figure>
-
-<br>
-<br>
-
-

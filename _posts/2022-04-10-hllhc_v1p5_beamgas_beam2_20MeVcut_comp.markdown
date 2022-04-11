@@ -47,7 +47,7 @@ Results for:
 <br>
 
 <figure>
-<img src="/public/img/comp_halo_b2_gas_20220410/IPoriginKE_comparison_all_beamgas_hllhc_v1p5_beta15_ATLAS_b2_1_500_20MeVcut_hydrogen_gas_20220408.png" style="width: 60vw;">
+<img src="/public/img/comp_halo_b2_gas_20220410/IPorigin_comparison_all_beamgas_hllhc_v1p5_beta15_ATLAS_b2_1_500_20MeVcut_hydrogen_gas_20220408.png" style="width: 60vw;">
 <figcaption>Origin of secondaries reaching the interface plane.</figcaption>
 </figure>
 
